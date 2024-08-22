@@ -1,0 +1,11 @@
+{
+  "name": "react-redux-firebase-utils-package",
+  "version": "1.0.0",
+  "description": " npm package that provides a set of utility functions for React developers, especially those working with Redux, Firebase, and Tailwind CSS. This package will include 10 functionalities that can help streamline common tasks in these areas.",
+  "main": "index.js",
+  "scripts": {
+     "test" : "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
